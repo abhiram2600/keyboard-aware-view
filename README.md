@@ -18,7 +18,7 @@ yarn add keyboard-aware-view
 ### Demo
 
 
-https://user-images.githubusercontent.com/59743820/136658844-03ba5af8-46d3-45d1-a0bc-a114f7e4522a.mov
+https://user-images.githubusercontent.com/59743820/136658844-03ba5af8-46d3-45d1-a0bc-a114f7e4522a.mov 
 
 ## Usage
 

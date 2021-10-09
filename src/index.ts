@@ -1,1 +1,1 @@
-export * from './keyboard-aware-view'
+export * from './keyboard-aware-view';

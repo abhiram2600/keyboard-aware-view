@@ -7,7 +7,7 @@ import {
   ScrollView,
   TextInput,
 } from 'react-native';
-import {KeyboardAwareViewProps} from './typings'
+import {KeyboardAwareViewProps} from './typings';
 
 const {height: windowHeight} = Dimensions.get('screen');
 
