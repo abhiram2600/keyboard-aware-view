@@ -1,0 +1,33 @@
+{
+  "name": "keyboard-aware-view",
+  "version": "1.0.0",
+  "description": "A library to handle view height based on keyboard",
+  "main": "src/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react native",
+    "keyboard aware scrollview",
+    "keyboard",
+    "aware",
+    "view",
+    "keyboard",
+    "avoiding",
+    "view",
+    "keyboard",
+    "aware",
+    "scroll",
+    "view"
+  ],
+  "author": "Abhiram Kasturi <abhiramkasturi10@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "homepage": "https://github.com/abhiram2600/keyboard-aware-view#README.md",
+  "bugs": {
+    "url": "https://github.com/abhiram2600/keyboard-aware-view/issues"
+  }
+}
